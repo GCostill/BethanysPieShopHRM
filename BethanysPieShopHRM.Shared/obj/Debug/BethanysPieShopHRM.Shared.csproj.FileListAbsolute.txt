@@ -1,0 +1,6 @@
+C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM.Shared\bin\Debug\BethanysPieShopHRM.Shared.dll
+C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM.Shared\bin\Debug\BethanysPieShopHRM.Shared.pdb
+C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM.Shared\obj\Debug\BethanysPieShopHRM.Shared.csproj.AssemblyReference.cache
+C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM.Shared\obj\Debug\BethanysPieShopHRM.Shared.csproj.CoreCompileInputs.cache
+C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM.Shared\obj\Debug\BethanysPieShopHRM.Shared.dll
+C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM.Shared\obj\Debug\BethanysPieShopHRM.Shared.pdb
