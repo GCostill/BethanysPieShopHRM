@@ -1,0 +1,5 @@
+﻿<linker>
+  <assembly fullname="BethanysPieShopHRM">
+    <type fullname="*" required="true" />
+  </assembly>
+</linker>

@@ -1,0 +1,159 @@
+{
+  "FilesToCompress": [
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Km8i5xj882cpZIfxQLIn-4rXPQ_oC_28GufrLWcIgfs=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\BethanysPieShopHRM.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/BethanysPieShopHRM.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\yEh2Z9Kaf5-mrJVCImACYVXalZVOaWo5qA0OBFvHOtk=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\BethanysPieShopHRM.Shared.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/BethanysPieShopHRM.Shared.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\PO0rWErcms_BBoVyzopVoz1kP8HoBOYVv7DeRwX7z2E=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\-IvjGs3thkGmrox5LWmQFXCNUuFahVFqlcW-V_7Mmss=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\i-IgA1tEGoTZ17O8UgYFB9A07nS3EWX9zkrhHakopYo=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\jzHgXWAvWMkKIGFjZoT84tbe72E_H7CvTr-Dryh4QPs=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\EV2k4gnWDj5WYWkITuTeYjb_nmZyOa92jeG9MDXXWus=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Hz5GNzCzorI6WDYMljiC9bmc2wMYk7L3TkUyCzqqgRw=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\LmW0-lzTBMrJI9drMT43Y6_z8DgHx3kGpCiOiijJpes=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Ta4jBng4cQhrsVwgdkfEIH9aELqtQ7OjqR-P74ipwQk=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\7MeXKCfB35oGTI5pvzZJXlK-YSuk3jOar11i-CR7vXU=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\7k3U9e40soBn8hZMrtPfd6sjzDhneoD9R9sI7OSygGU=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\HDZiKeUFzkTu3M-_vKZcSw9XlAIlw_2J_b5uwA_PPpM=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\jQ0_98R-3T0xY8LeALHqFNv-e_mpM-XAyxbl_8F6Cf4=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Options.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\A8LyWoemHmmSNW7Vuu5dInwmgZF01b6RsMpOP2yOKg8=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Primitives.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3cbvJEo8k8VJVQwyEZWWQ6yGRFQW8-219DaOnmsX3e4=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\zV-OfJNfNsG404X30Pwkdymdh1KmZpTVEmG-JNFVc-k=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\SSXxrh8jDyBwlNW5cQCDCFXnvF4MIs1cevjcRCi2UVM=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\mscorlib.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\E00m5w7EPAHlt4jSQT4Uk9NnJEHCtM0mHv9NzMYdHEY=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Core.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\zLUke0hxjvhc3HcZAE03kKoXGaXqBAybuuPmz0BnvpM=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\IZ-ZxBa1sjNKTg3U1LXYiQxI2uXpGQXLTCiCI6Z1gnQ=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\t7MeFRwNs0KCJR_xHyPcGn2Rsk7HtbQJJy1Di0RsyNM=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.WebAssemblyHttpHandler.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\PAPbeWw_Y6y2vHFyq6ZpmjXtLkKpWd_xNkwZL1kPEFQ=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.CompilerServices.Unsafe.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\GxYuWe8ACk8uITGj2OhpoZzZiQ1xEmxd3E_GLvRMZiM=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Encodings.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\WyNKs-ubPvJ3audYoBVa5_gfH-GjIXb8NC-peYmPEAg=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\4LwmnCkpef8Saix41QvoAHpEGfgy1Y4ZIpxPw0IIiTM=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Bindings.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash",
+      "Source": "C:\\Users\\gaby1\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.3.2.0.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.3.2.0.js.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash",
+      "Source": "C:\\Users\\gaby1\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.timezones.dat",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.timezones.dat.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash",
+      "Source": "C:\\Users\\gaby1\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.wasm",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.wasm.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash",
+      "Source": "C:\\Users\\gaby1\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.build\\3.2.1\\tools\\blazor\\blazor.webassembly.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\K6m08sdfYp3VJeS9XomidnkHqFWV8bZ64pLXv0Pp8-0=.hash",
+      "Source": "C:\\VSProjects\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Release\\netstandard2.1\\blazor\\blazor.boot.json",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
+    }
+  ]
+}
