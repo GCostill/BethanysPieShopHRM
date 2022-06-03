@@ -5,7 +5,7 @@
     <h1 class="page-title">Details for @Employee.FirstName @Employee.LastName</h1>
 
 
-    <EditForm Model="@Employee">
+    <EditForm Model="@Employee" OnValidSubmit="@HandleValidSubmit" OnInvalidSubmit="@HandleInvalidSubmit">
         <div class="form-group row">
             <label for="lastName" class="col-sm-3">Last name: </label>
             <InputText id="lastName" @bind-Value="@Employee.LastName" class="form-control col-sm-8" placeholder="Enter last name"></InputText>
@@ -77,8 +77,8 @@
         </div>
 
         <div class="form-group row">
-            <label for="smoker" class="col-sm-3">
-                <InputCheckbox id="smoker" class="form-control col-sm-8" @bind-Value="@Employee.Smoker"></InputCheckbox>
+            <label for="smoker" class="offset-sm-3">
+                <InputCheckbox id="smoker" @bind-Value="@Employee.Smoker"></InputCheckbox>
                 &nbsp; Smoker
             </label>
         </div>
@@ -128,5 +128,7 @@
             <InputTextArea id="comment" class="form-control col-sm-8" @bind-Value="@Employee.Comment" placeholder="Enter birthdate"></InputTextArea>
 
         </div>
+
+        <button type="submit" class="btn btn-primary edit-btn">Save employee</button>
     </EditForm>
 </section>
