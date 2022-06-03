@@ -371,9 +371,11 @@ C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\netstandard2.1\com
 C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Diagnostics.DiagnosticSource.dll.br
 C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Http.dll
 C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Http.dll.gz
-C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\netstandard2.1\integrity\sTltO_YVd-lSJ6g3N3mohnC2BpErb6gBjS061KT5q78=.hash
 C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\netstandard2.1\integrity\K5-O91dt69IHKav69ftn_7DKPmnzkipTvwM4Sd4Zres=.hash
-C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\netstandard2.1\integrity\332zqOqaQdudPPKW0yq5BglnI15rtkqh9phizcl_xwA=.hash
-C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\netstandard2.1\integrity\aOFAqwyuX8HGpmQjrk5510mqq0iFAOKo1KXSP0RQRW4=.hash
 C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Http.dll.gz
 C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Http.dll.br
+C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\netstandard2.1\RazorDeclaration\Pages\EmployeeEdit.razor.g.cs
+C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\netstandard2.1\Razor\Pages\EmployeeEdit.razor.g.cs
+C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\netstandard2.1\integrity\zG_03CGvaZtzsSR3GeSLs6C8qug5a_h9w4_4K3Uxb3A=.hash
+C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\netstandard2.1\integrity\rGFZyMUxMJ85jbGhCKewTPcq3hkAZFup--UjyKDCNec=.hash
+C:\VSProjects\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\netstandard2.1\integrity\Hn9lgUxYi8EzT2PPESOrMxYTll16Afb10POcyMnti9A=.hash
